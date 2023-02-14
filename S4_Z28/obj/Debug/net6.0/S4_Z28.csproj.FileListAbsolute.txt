@@ -1,0 +1,15 @@
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\bin\Debug\net6.0\S4_Z28.exe
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\bin\Debug\net6.0\S4_Z28.deps.json
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\bin\Debug\net6.0\S4_Z28.runtimeconfig.json
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\bin\Debug\net6.0\S4_Z28.dll
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\bin\Debug\net6.0\ref\S4_Z28.dll
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\bin\Debug\net6.0\S4_Z28.pdb
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.csproj.AssemblyReference.cache
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.AssemblyInfoInputs.cache
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.AssemblyInfo.cs
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.csproj.CoreCompileInputs.cache
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.dll
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\ref\S4_Z28.dll
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.pdb
+D:\Ranis\GB\GB_Learn\Seminar4\S4_Z28\obj\Debug\net6.0\S4_Z28.genruntimeconfig.cache
